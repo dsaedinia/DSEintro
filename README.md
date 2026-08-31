@@ -1,6 +1,24 @@
 # DSEintro - Daniel (Danny) Saedi Nia
 
-## Fun Fact
+## About Me
+
+### Name
+
+Daniel (Danny) Saedi Nia
+
+### Background
+
+I am coming from and undergraduate background in Computer Science from the University of California, Irvine (UCI). I have been working as an intern with the Integrated Computational Earth Sciences (ICES) group at Oak Ridge National Laboratory (ORNL) for the past 2 years, where I developed AI tools for accessibility and discoverability of Earth science data and model outputs. I hope that through DSE 511 I can learn more about different aspects of data science that I may not have been exposed to yet and gain a better understanding of what it means to be a data scientist.
+
+### Favorite Prior Classes
+
+- **ICS 45C (UCI) - Intro to C++**: This course was almost more a data structures and algorithms class than a C++ class, and although challenging, I found it extremely rewarding and fundamental to my understanding of programming and computer science in general.
+
+- **EECS 805 - Embedded Programming**: The only class where I can say I built an alarm clock from scratch that played the Godfather theme as the alarm. I really enjoyed the hands-on nature of this class and the fact that I could see a tangible result of my work at the end of the semester.
+
+- **Art History 100(Palomar College)**: This was a class I took in community college, admitedly because it seemed like an easy way to fulfill a requirement, but I ended up extremely interested in the subject and found myself really enjoying a course that seemed to be very far removed from my own field.  
+
+### Fun Fact
 
 I have lived many different places in my life. From Northeast Ohio, where I was born, to Southern Iran, where I spent 7 years. From there I moved back to the U.S., to Southern California, where I spent the next 11 years of my life. I am now living here in East Tennessee and have been for the past 2 years, and I will continue to be for at least as long as this PhD takes me.
 
